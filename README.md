@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🌱 I'm currently learning and documenting my journey in: 
-📊 Excel Project
-📑 PowerPoint Presentation
-📚 Study Notes
-💻 Future Coding Project
+- 📊 Excel Project
+- 📑 PowerPoint Presentation
+- 📚 Study Notes
+- 💻 Future Coding Project
