@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there! I'm Sindy 👋
 
 <!--
 **sndyu/sndyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 I'm currently learning and documenting my journey in: 
+📊 Excel Project
+📑 PowerPoint Presentation
+📚 Study Notes
+💻 Future Coding Project
