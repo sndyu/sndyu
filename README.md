@@ -18,8 +18,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I'm currently learning and documenting my journey in: 
-- 📊 Excel Project
-- 📑 PowerPoint Presentation
-- 📚 Study Notes
-- 💻 Future Coding Project
+- 🌱 Learning, Building, and documenting project across data, business, technology and productivity 
+- 📊 Data & Excel Project
+- 📑 Business & Analysis Project 
+- 💻 Coding & Technical Learning
+- 📚 Notes, Experiments & Continuous Learning
+- 
