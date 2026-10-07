@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 Learning, Building, and documenting project across data, business, technology and productivity 
+🌱 Learning, Building, and documenting project across data, 
+    business, technology and productivity 
 - 📊 Data & Excel Project
 - 📑 Business & Analysis Project 
 - 💻 Coding & Technical Learning
 - 📚 Notes, Experiments & Continuous Learning
-- 
